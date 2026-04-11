@@ -1,0 +1,26 @@
+# 内容：Steam
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,valvesoftware.com
+IP-CIDR,103.10.124.0/24
+IP-CIDR,103.28.54.0/24
+IP-CIDR,155.133.224.0/23
+IP-CIDR,162.254.193.0/24
+IP-CIDR,254.195.69.0/24
+IP-CIDR,254.195.75.0/24
+IP-CIDR,45.121.184.0/24
